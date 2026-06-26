@@ -9,8 +9,8 @@
 ## 🚀 Who am I?
 
 - 🎓 **Master of Business Analytics** @ Deakin University, Melbourne | Computer Science postgrad background
-- 💼 Support Analyst experience @ Unifycx — analysed recurring support trends and ticket data to improve resolution processes
-- 📊 Part-time hospitality experience in Australia alongside study — I understand the business side of data before I ever open a spreadsheet
+- 💼 2.5 months @ Unifycx — analysed recurring support trends and ticket data to improve resolution processes
+- 📊 Part-time retail experience in Australia alongside study — I understand the business side of data before I ever open a spreadsheet
 - 🌏 Trilingual — English, Hindi, Kannada
 - 🛠️ Currently upskilling in SQL, Python, and Tableau ahead of 2026 internship applications
 - 📈 Interested in business analytics, customer insights, and data-driven decision making
