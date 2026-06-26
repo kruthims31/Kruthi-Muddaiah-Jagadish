@@ -20,7 +20,7 @@
 
 ## 💼 Experience
 
-**Support Analyst** — Unifycx *(2.6 months)*
+**Support Analyst** — Unifycx *(2.5 months)*
 - Logged and tracked customer issues across CRM systems, identifying recurring patterns in support tickets
 - Used issue-tracking data to flag process inefficiencies, contributing to faster average resolution times
 - Worked cross-functionally with product teams — early exposure to how operational data drives business decisions
