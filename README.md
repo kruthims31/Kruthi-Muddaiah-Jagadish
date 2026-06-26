@@ -8,7 +8,7 @@
 
 ## 🚀 Who am I?
 
-- 🎓 **Master of Business Analytics** @ Deakin University, Melbourne | Computer Science postgrad background
+- 🎓 **Master of Business Analytics** @ Deakin University, Melbourne | Information Science postgrad background
 - 💼 2.5 months @ Unifycx — analysed recurring support trends and ticket data to improve resolution processes
 - 📊 Part-time retail experience in Australia alongside study — I understand the business side of data before I ever open a spreadsheet
 - 🌏 Trilingual — English, Hindi, Kannada
